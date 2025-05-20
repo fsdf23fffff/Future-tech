@@ -2241,7 +2241,10 @@ a[aria-lable]::before, button[aria-lable]::before {
 }
 
 .blog-details__banner {
+<<<<<<< HEAD
   --bgImg: url("../../images/details/1.jpg");
+=======
+>>>>>>> de4c0b3f3d01a7866e8437d9f5a2b6bb0737d769
   display: flex;
   align-items: end;
   min-height: clamp(17.5625rem, 11.1766528926rem + 26.1983471074vw, 37.375rem);
