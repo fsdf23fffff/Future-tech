@@ -5,7 +5,6 @@
     padding: rem(18) rem(24);
     display: inline-flex;
     align-items: center;
-    justify-content: center;
     font-size: rem(18);
     color: var(--color-gray-60);
     background-color: var(--color-dark);
@@ -13,7 +12,6 @@
     border: var(--border);
     border-radius: rem(12);
     min-width: rem(137);
-
 
 
     @include laptop{
@@ -29,7 +27,7 @@
     }
 
     &__accent{
-        
+       
         background-color: (var(--color-accent));
         border-color: var(--color-accent);
         color: var(--color-dark);
